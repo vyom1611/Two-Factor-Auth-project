@@ -1,0 +1,29 @@
+{
+  "name": "two-factor-auth-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyom1611/Two-Factor-Auth-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyom1611/Two-Factor-Auth-project/issues"
+  },
+  "homepage": "https://github.com/vyom1611/Two-Factor-Auth-project#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-json-db": "^1.6.0",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
